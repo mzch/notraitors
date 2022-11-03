@@ -1,0 +1,133 @@
+/* 古事記 スタイルシート */
+body {
+	-webkit-writing-mode:vertical-rl;
+	-ms-writing-mode:tb-rl;
+	-o-writing-mode:vertical-rl;
+	writing-mode:vertical-rl;
+	direction:ltr;
+	float: right;
+	margin-top: 1em;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14pt;
+	background: linear-gradient(left, rgb(240,240,240), white);
+	background:-webkit-gradient(linear, left top, left bottom, from(rgb(240,240,240)), to(white)); 
+}
+
+.setumei {
+	margin-top: 60px;
+	margin-right: 2em;
+	color: rgb(0, 0, 80);
+}
+.genbun {
+	margin-right: 2em;
+	font-size: 16pt;
+}
+
+.kundoku {
+	margin-right:2em;
+	margin-top: 120px;
+	line-height: 2em;
+	color: #5f5f5f;
+}
+
+.translate {
+	border: 1px solid rgb(128, 192, 144);
+	border-radius: 0.5em;
+	padding: 0.5em;
+	margin-right:1em;
+	margin-top: 160px;
+	font-size: 12pt;
+	color: rgb(64, 128, 80);
+}
+
+.footnote {
+	list-style-type: cjk-ideographic;
+	margin-right: 2em;
+	margin-top: 160px;
+	font-size: 12pt;
+	color: rgb(64, 96, 128);
+}
+
+.chu {
+	font-size: 11pt;
+	color: #aa4400;
+}
+
+.kana {
+	color: #0000a0;
+}
+
+.footer {
+	margin-bottom: 1em;
+	margin-right: 2em;
+	margin-left: 1em;
+	text-align: right;
+}
+
+.imprint {
+	margin-bottom: 1em;
+	margin-right: 2em;
+	margin-left: 3em;
+	text-align: right;
+}
+
+h1 {
+	font-weight: bold;
+	text-shadow: 2pt 2pt 2pt rgb(160,160,160);
+}
+
+h2 {
+	margin-right: 2em;
+}
+p {
+	text-indent:1em;
+	display: block;
+}
+
+rt {
+	font-size: 10pt;
+}
+
+sup {
+	font-size: 9pt;
+}
+a:link {
+	color: rgb(160,160,160);
+	text-decoration: none;
+}
+
+a:visited {
+	color: rgb(160,160,160);
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(0, 0, 80);
+}
+
+toolTip {
+	position: relative;
+}
+
+.toolTip span {
+	display: block;
+	border: solid 2px #999;
+	border-radius: 0.5em;
+	background-color: #eee;
+	color: #666;
+	text-decoration: none;
+	position: absolute;
+	top: 40px;
+	bottom: 40px;
+	padding: 10px;
+	visibility: hidden;
+	font-size: 12pt;
+}
+
+a.toolTip:hover,
+a.toolTip:hover span{
+	visibility: visible;
+	z-index: 100;
+}
