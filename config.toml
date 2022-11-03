@@ -92,7 +92,7 @@ googleAnalytics = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "日本古代史や婚姻史といった歴史や、政治、経済、マスコミ論などなど関心の赴くままにあれこれ綴るブログ"
+    subtitle = "日本のことについてとりとめのないことを綴っていくブログです。日本が嫌いな人は見てはいけません"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "mzch@mzch.org"
