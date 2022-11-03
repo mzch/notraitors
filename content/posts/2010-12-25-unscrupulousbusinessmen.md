@@ -2,6 +2,8 @@
 title: "金のためなら国を売る企業人"
 date: 2010-12-25T19:02:38+09:00
 draft: false
+archive:
+  - 2010年12月
 categoties:
  - 政治
  - 経済

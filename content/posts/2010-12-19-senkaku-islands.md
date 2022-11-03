@@ -2,6 +2,8 @@
 title: "尖閣諸島問題とは何なのか"
 date: 2010-12-19T18:55:24+09:00
 draft: false
+archive:
+  - 2010年12月
 categories:
   - 外交
   - 政治

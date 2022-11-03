@@ -2,6 +2,8 @@
 title: "日本に右翼などいない"
 date: 2010-11-29T20:44:33+09:00
 draft: false
+archive:
+  - 2010年11月
 categories:
   - 思想
   - 政治

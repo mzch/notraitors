@@ -2,13 +2,19 @@
 title: "専業主婦を否定しても子育ての問題は解決しない"
 date: 2010-12-30T00:30:02+09:00
 draft: false
-categoties:
+archive:
+  - 2010年12月
+categories:
   - 政治
   - 行政
+  - 人口問題
 tags:
   - 子育て問題
   - 専業主婦
   - 家庭
+  - 人口減少
+  - サヨク
+  - パヨク
 ---
 
 産経新聞が『仙谷氏「[専業主婦は病気」と問題発言か　本人は「記憶にない」と釈明](http://sankei.jp.msn.com/politics/policy/101227/plc1012271319010-n1.htm)』という見出しの記事を掲載し、それを池田信夫さんが『[保守の劣化](http://ikedanobuo.livedoor.biz/archives/51623662.html)』というブログ記事で批判しておられます。

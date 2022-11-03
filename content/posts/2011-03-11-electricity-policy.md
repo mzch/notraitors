@@ -2,6 +2,8 @@
 title: "日本が今後採るべき電力供給戦略について"
 date: 2011-03-11T00:45:39+09:00
 draft: false
+archive:
+  - 2011年03月
 categories:
   - 災害
   - 政治

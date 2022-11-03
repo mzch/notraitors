@@ -17,7 +17,7 @@ DefaultContentLanguage = "ja"
 googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
-disqusShortname = ""
+#disqusShortname = ""
 
 [params]
   # Custom CSS / JS modules that will be imported by the template.
@@ -30,7 +30,7 @@ disqusShortname = ""
   # Description and meta data for the search engines
   author = "Koichi MATSUMOTO"
   description = "C/C++/Objective-C/Swifot Programmer"
-  keywords = "blog,personal,notraitors,Japan,History,Politics,Economy,古代史,日本婚姻史,婚姻史,マスコミ"
+  keywords = "blog,personal,no traitors,Japan,History,Politics,Economy,Marital History,日本,古代史,日本婚姻史,婚姻史,マスコミ,反自民反サヨク,反パヨク"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -111,7 +111,7 @@ disqusShortname = ""
     stickyNav = false
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = true
+    showHeaderLanguageChooser = false
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index

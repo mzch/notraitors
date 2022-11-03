@@ -2,6 +2,8 @@
 title: "企業の内部留保はどこから来たのか"
 date: 2010-12-26T19:13:56+09:00
 draft: false
+archive:
+  - 2010年12月
 categoties:
   - 経済
   - 企業
