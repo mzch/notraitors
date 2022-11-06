@@ -14,6 +14,8 @@ tags:
    - 古事記
    - 倭
    - 日本
+   - 磐井の乱
+   - 継体天皇
 ---
 
 重要な項目を検討し忘れていたので、ここで補おうと思います。古代日本で「[壬申の乱](https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%B3%E3%81%AE%E4%B9%B1)」と並ぶ大内乱「[磐井の乱](http://ja.wikipedia.org/wiki/%E7%A3%90%E4%BA%95%E3%81%AE%E4%B9%B1)」です。
