@@ -18,7 +18,7 @@ tags:
 
 古代の画期といえば、「[大化の改新](http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8C%96%E3%81%AE%E6%94%B9%E6%96%B0)」を挙げるのが従来の定説でした。しかし、最近は所謂「[改新の詔](http://ja.wikipedia.org/wiki/%E6%94%B9%E6%96%B0%E3%81%AE%E8%A9%94)」が後代、[律令制](http://ja.wikipedia.org/wiki/%E5%BE%8B%E4%BB%A4%E5%88%B6)が施行されてから創作されたものであることが確実になり、また、[天智天皇](http://ja.wikipedia.org/wiki/%E5%A4%A9%E6%99%BA%E5%A4%A9%E7%9A%87)の施策も「改新」めいた点が見られないことから、「[大化の改新](http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8C%96%E3%81%AE%E6%94%B9%E6%96%B0)」と言えるほどのことはなかったのではないかとも言われています。
 
-ではその契機となった「[乙巳の変](http://ja.wikipedia.org/wiki/%E4%B9%99%E5%B7%B3%E3%81%AE%E5%A4%89)」もなかったかというとそんなことはありません。「[入鹿神社](http://ja.wikipedia.org/wiki/%E5%85%A5%E9%B9%BF%E7%A5%9E%E7%A4%BE)」という[蘇我入鹿](http://ja.wikipedia.org/wiki/%E8%98%87%E6%88%91%E5%85%A5%E9%B9%BF)を祭った神社が伝世されています。菅原道真の例を見れば分かる通り、死後その人を祭るというのは、恨みを呑んで死んだその人の霊が祟りをなすと懼れられたからです。[蘇我入鹿](http://ja.wikipedia.org/wiki/%E8%98%87%E6%88%91%E5%85%A5%E9%B9%BF)も死後祟りをなすような死に方をした、つまり、[蘇我入鹿](http://ja.wikipedia.org/wiki/%E8%98%87%E6%88%91%E5%85%A5%E9%B9%BF)を殺し、蘇我宗家を滅ぼした事変は確かにあったのです。
+ではその契機となった「[乙巳の変](http://ja.wikipedia.org/wiki/%E4%B9%99%E5%B7%B3%E3%81%AE%E5%A4%89)」もなかったかというとそんなことはありません。「[入鹿神社](http://ja.wikipedia.org/wiki/%E5%85%A5%E9%B9%BF%E7%A5%9E%E7%A4%BE)」という[蘇我入鹿](http://ja.wikipedia.org/wiki/%E8%98%87%E6%88%91%E5%85%A5%E9%B9%BF)を祭った神社が伝世されています。菅原道真の例を見れば分かる通り、死後その人を祀るというのは、恨みを呑んで死んだその人の霊が祟りをなすと懼れられたからです。[蘇我入鹿](http://ja.wikipedia.org/wiki/%E8%98%87%E6%88%91%E5%85%A5%E9%B9%BF)も死後祟りをなすような死に方をした、つまり、[蘇我入鹿](http://ja.wikipedia.org/wiki/%E8%98%87%E6%88%91%E5%85%A5%E9%B9%BF)を殺し、蘇我宗家を滅ぼした事変は確かにあったのです。
 
 <!--more-->
 
