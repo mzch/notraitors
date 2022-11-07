@@ -15,7 +15,7 @@ tags:
    - 倭
 ---
 
-『[漢書](http://ja.wikipedia.org/wiki/%E6%BC%A2%E6%9B%B8)』地理志に始まり、『[舊唐書](http://ja.wikipedia.org/wiki/%E6%97%A7%E5%94%90%E6%9B%B8)』東夷伝倭国条・日本國条まで見てきたが、先入観のない素朴な目で見ると、従来学校で教えられてきた歴史の内容に大きな疑問を抱かざるを得ない点が次々に見つかった。これを列挙し、機会があれば日本の古代史を専門とする歴史学者に問うてみたい。
+『[漢書](https://ja.wikipedia.org/wiki/%E6%BC%A2%E6%9B%B8)』地理志に始まり、『[舊唐書](https://ja.wikipedia.org/wiki/%E6%97%A7%E5%94%90%E6%9B%B8)』東夷伝倭国条・日本國条まで見てきたが、先入観のない素朴な目で見ると、従来学校で教えられてきた歴史の内容に大きな疑問を抱かざるを得ない点が次々に見つかった。これを列挙し、機会があれば日本の古代史を専門とする歴史学者に問うてみたい。
 
 <!--more-->
 
@@ -25,11 +25,11 @@ tags:
 
 <span style="color:#000066;">**2. 魏の使節は朝鮮半島内で陸路を取ったのではないか。**</spam>
 
-『[魏志倭人伝](http://ja.wikipedia.org/wiki/%E9%AD%8F%E5%BF%97%E5%80%AD%E4%BA%BA%E4%BC%9D)』の「歴韓國乍南乍東到其北岸狗邪韓國」は「韓国に入って南行東行を繰り返して邪馬壹國の北岸の狗邪韓國に到る」としか読めないのだが、なぜ船で海岸沿いを南下し、済州島と朝鮮半島の間を東行したように解釈されているのか。
+『[魏志倭人伝](https://ja.wikipedia.org/wiki/%E9%AD%8F%E5%BF%97%E5%80%AD%E4%BA%BA%E4%BC%9D)』の「歴韓國乍南乍東到其北岸狗邪韓國」は「韓国に入って南行東行を繰り返して邪馬壹國の北岸の狗邪韓國に到る」としか読めないのだが、なぜ船で海岸沿いを南下し、済州島と朝鮮半島の間を東行したように解釈されているのか。
 
 <span style="color:#000066;">**3. 倭國（倭奴國）は九州にあったのではないか。**</span>
 
-- 『[後漢書](http://ja.wikipedia.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8)』東夷伝に[光武帝](https://ja.wikipedia.org/wiki/%E5%85%89%E6%AD%A6%E5%B8%9D)が下賜したと記されている[金印](https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%A7%94%E5%A5%B4%E5%9B%BD%E7%8E%8B%E5%8D%B0)が[志賀島](https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B3%80%E5%B3%B6)から出土している。九州から出土したのだから、その[金印](https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%A7%94%E5%A5%B4%E5%9B%BD%E7%8E%8B%E5%8D%B0)を拝辞した王朝は九州に存在するのが当然ではないだろうか。
+- 『[後漢書](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8)』東夷伝に[光武帝](https://ja.wikipedia.org/wiki/%E5%85%89%E6%AD%A6%E5%B8%9D)が下賜したと記されている[金印](https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%A7%94%E5%A5%B4%E5%9B%BD%E7%8E%8B%E5%8D%B0)が[志賀島](https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B3%80%E5%B3%B6)から出土している。九州から出土したのだから、その[金印](https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%A7%94%E5%A5%B4%E5%9B%BD%E7%8E%8B%E5%8D%B0)を拝辞した王朝は九州に存在するのが当然ではないだろうか。
 - 『[魏志倭人伝](https://ja.wikipedia.org/wiki/%E9%AD%8F%E5%BF%97%E5%80%AD%E4%BA%BA%E4%BC%9D)』にはその国土の特徴として「依山島為國邑」とあり、山がちで島が多いことを示している。『[後漢書](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8)』東夷伝でも「依山嶋爲居」とあり、『[晋書](https://ja.wikipedia.org/wiki/%E6%99%8B%E6%9B%B8)』四夷伝でも「依山島爲國」とされ、『[隋書](https://ja.wikipedia.org/wiki/%E9%9A%8B%E6%9B%B8)』東夷伝俀国条でも「於大海之中依山㠀」とある。『[舊唐書](https://ja.wikipedia.org/wiki/%E6%97%A7%E5%94%90%E6%9B%B8)』東夷伝倭国条にも「依山島而居」とある。そのような条件を地理的に満たすのは、九州だけではないのか。
 - 『[魏志倭人伝](https://ja.wikipedia.org/wiki/%E9%AD%8F%E5%BF%97%E5%80%AD%E4%BA%BA%E4%BC%9D)』には「種禾稻紵麻蠶桑緝績出細紵縑綿」とあり、絹織物が生産されていたことは明らかである。また、景初三年の朝貢の際、莫大な絹製品が下賜されている。畿内からは絹製品はほとんど出土せず、北九州に偏っている。
 - 『[隋書](https://ja.wikipedia.org/wiki/%E9%9A%8B%E6%9B%B8)』東夷伝俀国条には「有[阿蘇山](https://ja.wikipedia.org/wiki/%E9%98%BF%E8%98%87%E5%B1%B1)」とあり、わざわざ[阿蘇山](https://ja.wikipedia.org/wiki/%E9%98%BF%E8%98%87%E5%B1%B1)に触れているが、[阿蘇](https://ja.wikipedia.org/wiki/%E9%98%BF%E8%98%87%E5%B1%B1)は[富士山](https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1)などのように遠くからでも見ることができる山ではない。それが王朝に近しい場所にあるから特に注記したのではないか。
@@ -51,7 +51,7 @@ tags:
 
 <span style="color:#000066;">**6. 『[隋書](https://ja.wikipedia.org/wiki/%E9%9A%8B%E6%9B%B8)』東夷伝俀国条で名前が出るオオキミ「多利思比孤」を聖徳太子に比定する根拠は何か。**</span>
 
-[聖徳太子](https://ja.wikipedia.org/wiki/%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90)の逸話はすべて『[日本書紀](http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9B%B8%E7%B4%80)』から出ており、これほど重要な人物であるにも関わらず『[古事記](http://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BA%8B%E8%A8%98)』では触れられていない。
+[聖徳太子](https://ja.wikipedia.org/wiki/%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90)の逸話はすべて『[日本書紀](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9B%B8%E7%B4%80)』から出ており、これほど重要な人物であるにも関わらず『[古事記](https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BA%8B%E8%A8%98)』では触れられていない。
   - 「多利思比孤」はオオキミを号していたとあるが、[聖徳太子](https://ja.wikipedia.org/wiki/%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90)は摂政皇太子であり、皇位に就く前に死んでいる。
   - [裴世清](https://ja.wikipedia.org/wiki/%E8%A3%B4%E4%B8%96%E6%B8%85)は「多利思比孤」に実際に会っており、遣隋使の使者のごまかしでないことは明らかである。
   - [聖徳太子](https://ja.wikipedia.org/wiki/%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90)には「多利思比孤」に類似する別名がない。

@@ -19,7 +19,7 @@ tags:
   - 反日プロパガンダ
 ---
 
-[CNNGo.com](http://www.cnngo.com/) という [CNN](http://edition.cnn.com//) がアジア向けに特化して開設しているサイトでこういう記事を見つけた。
+[CNNGo.com](https://www.cnngo.com/) という [CNN](https://edition.cnn.com//) がアジア向けに特化して開設しているサイトでこういう記事を見つけた。
 
 基本的に韓国関係はややこしいことになりがちなので、発言を慎重にするようにしているが、いやこれが韓国の自己認識だとすれば、韓国は日本のパクリというビデオに猛反発するのがよくわかる。自発的に書かれたのか、書かされたのかはさておき、一度目を通して頂きたい。なお、ざざっと訳しただけなので、誤訳や誤字などがあれば、ぜひご指摘頂きたい。
 
@@ -37,21 +37,21 @@ Richard Smart 2011/10/3
 
 ##### 最良の敵
 
-「この互いにライバルである2国は常に議論のネタを探している。それはもう歴史的に」テンプル大学の教授であり、『[Contemporary Japan](http://www.amazon.com/Contemporary-Japan-History-Politics-Blackwell/dp/1405191945) (現代日本)』の著者である Jeff Kingston はそう語る。
+「この互いにライバルである2国は常に議論のネタを探している。それはもう歴史的に」テンプル大学の教授であり、『[Contemporary Japan](https://www.amazon.com/Contemporary-Japan-History-Politics-Blackwell/dp/1405191945) (現代日本)』の著者である Jeff Kingston はそう語る。
 
 「しかし、過去常にそうであったということではありませんし、2カ国の政府がいがみあっている今でも、民衆の間には概ね暖かな関係が残っているのです。」
 
-- **CNNGo で詳しく読む: [日本の反韓運動](http://www.cnngo.com/seoul/life/anti-korean-wave-japan-turns-political-141304)**
+- **CNNGo で詳しく読む: [日本の反韓運動](https://www.cnngo.com/seoul/life/anti-korean-wave-japan-turns-political-141304)**
 
 「デモのことを聞いた時、私は大笑いしましたよ。もっとくだらないテレビ番組がある国がなかったかなと。私が見る限り五十歩百歩ですが」と Kingston は付け加える。
 
-「おそらく日本の俳優組合が役にあぶれた役者の仕事を確保するために行われたのでしょう。ソウルに行けば、[独島／東海](http://en.wikipedia.org/wiki/Japan%E2%80%93Korea_disputes#Liancourt_Rocks)に対する日本の主張に抗議する人たちが指を切り落とししていますよ。それに対して、下らないテレビ番組に対して反対を訴えるというのは、ちょっとね」
+「おそらく日本の俳優組合が役にあぶれた役者の仕事を確保するために行われたのでしょう。ソウルに行けば、[独島／東海](https://en.wikipedia.org/wiki/Japan%E2%80%93Korea_disputes#Liancourt_Rocks)に対する日本の主張に抗議する人たちが指を切り落とししていますよ。それに対して、下らないテレビ番組に対して反対を訴えるというのは、ちょっとね」
 
 ##### 産業上の関係
 
 Kingston 氏にとって、その問題は、自分たちのハイテクで特許保護された部品を購入してくれる取引先を探すにあたり、日本の企業が (韓国の企業を) 頼みにしているという事実の前には霞んでしまう。
 
-「東北で生産されていた自動車や電子製品の鍵となる部品の供給が停止して[韓国の工場が閉鎖](http://www.biztechreport.com/story/1216-japan-earthquake-impacts-korean-supply-chain-severely)に追い込まれた時、このライバル関係にある国がいかに相互に依存しているかが明らかになりました。今や『パーツメーカー』は韓国に拠点を移そうとしています。円高のおかげで日本が韓国企業を買収できるようになったのです」
+「東北で生産されていた自動車や電子製品の鍵となる部品の供給が停止して[韓国の工場が閉鎖](https://www.biztechreport.com/story/1216-japan-earthquake-impacts-korean-supply-chain-severely)に追い込まれた時、このライバル関係にある国がいかに相互に依存しているかが明らかになりました。今や『パーツメーカー』は韓国に拠点を移そうとしています。円高のおかげで日本が韓国企業を買収できるようになったのです」
 
 製造業における経済上の相互依存は始まったばかりだが−−日本の食品産業、文化産業、小売行、旅行業などすべてで、その嫌っている隣人からの助力がある。
 
@@ -59,11 +59,11 @@ Kingston 氏にとって、その問題は、自分たちのハイテクで特�
 
 プルコギ (焼肉)、キムチ (香辛料が効いたキャベツの漬け物 [^footnote2]、韓国酒はすべて東京ではどこでも食べられる。
 
-各地にある「[チェゴヤ](http://www.chegoya.com/shop/index.html)」は韓国料理ではお勧めのお店だ、「[牛角](http://www.gyukaku.ne.jp/)」チェーンがリーズナブルなお値段で日本流のプルコギを出してくれるけど。
+各地にある「[チェゴヤ](https://www.chegoya.com/shop/index.html)」は韓国料理ではお勧めのお店だ、「[牛角](https://www.gyukaku.ne.jp/)」チェーンがリーズナブルなお値段で日本流のプルコギを出してくれるけど。
 
-- **CNNGo で詳しく読む: [Tokyo’s tower of meet](http://www.cnngo.com/tokyo/eat/beef-addict-hits-niku-no-mansei-024091)**
+- **CNNGo で詳しく読む: [Tokyo’s tower of meet](https://www.cnngo.com/tokyo/eat/beef-addict-hits-niku-no-mansei-024091)**
 
-もちろん、マッコリのような韓国産のお酒は人気があり、大量に出回っている。「[てじまぅる](http://www.bento.com/rev/2561.html)」あるいは[大久保駅](http://en.wikipedia.org/wiki/Shin-%C5%8Ckubo_Station#Attractions)のそばに数え切れないほどあるコリアンバーでどうぞ。
+もちろん、マッコリのような韓国産のお酒は人気があり、大量に出回っている。「[てじまぅる](https://www.bento.com/rev/2561.html)」あるいは[大久保駅](https://en.wikipedia.org/wiki/Shin-%C5%8Ckubo_Station#Attractions)のそばに数え切れないほどあるコリアンバーでどうぞ。
 
 それから旅行について。アメリカのエグゼクテイブやバックパッカーたちは日本に観光で訪れてお金を落としていく一方で、韓国人はそれ以上に寄与している。
 
@@ -77,21 +77,21 @@ Kingston 氏にとって、その問題は、自分たちのハイテクで特�
 
 逆にドラマは公平に見てよくできているし、明らかにファンがついている。テレビ局が直面している問題も、メディア評論家の Philip Brasor が 2009 年に書いた広告収入の減少に関するエッセイでした記した通り、時代の表れに過ぎない。
 
-- **CNNGo で詳しく読む: [Newest AKB48 member outed as an anmatioin](http://www.cnngo.com/tokyo/play/nation-shock-newest-akb48-member-revealed-be-cg-animation-661774)**
+- **CNNGo で詳しく読む: [Newest AKB48 member outed as an anmatioin](https://www.cnngo.com/tokyo/play/nation-shock-newest-akb48-member-revealed-be-cg-animation-661774)**
 
-「商業テレビ番組は、今でも最悪だが、おそらく赤字が増すにつれさらにひどくなっていくだろう」彼は「[ジャパンタイムズ](http://search.japantimes.co.jp/cgi-bin/fd20090215pb.html)」にそう寄せている。つまり、質の良い番組は、広告収入の減少と軌を一にして減ってきたのだ。
+「商業テレビ番組は、今でも最悪だが、おそらく赤字が増すにつれさらにひどくなっていくだろう」彼は「[ジャパンタイムズ](https://search.japantimes.co.jp/cgi-bin/fd20090215pb.html)」にそう寄せている。つまり、質の良い番組は、広告収入の減少と軌を一にして減ってきたのだ。
 
-音楽業界では、AKB48 のような思春期前のお祭り騒ぎじみたバンドに対して、[K-Pop の魅力](http://www.cnngo.com/seoul/life/tell-me-about-it/k-pop-taking-over-world-dont-make-me-laugh--476482)は不動のものとなっているが、両者ともふたつの国を敵から友人に変える別の地平へ誘ってくれるだろうーー麗しいビジネスには違いない。
+音楽業界では、AKB48 のような思春期前のお祭り騒ぎじみたバンドに対して、[K-Pop の魅力](https://www.cnngo.com/seoul/life/tell-me-about-it/k-pop-taking-over-world-dont-make-me-laugh--476482)は不動のものとなっているが、両者ともふたつの国を敵から友人に変える別の地平へ誘ってくれるだろうーー麗しいビジネスには違いない。
 
 ##### 美容
 
-「韓国の美容製品と、実際のところ韓国の美容情勢全体が、日本とアジア各国に極めて大きな影響を与えています。ついでに言えばここ数年ずっとそうです」というのが、東京を拠点に活動しているアジアの消費者トレンドエージェンシー「[Five by Fity](http://fivebyfifty.com/)」の創立者でトレンドディレクターの Nicole Fall の言葉です。
+「韓国の美容製品と、実際のところ韓国の美容情勢全体が、日本とアジア各国に極めて大きな影響を与えています。ついでに言えばここ数年ずっとそうです」というのが、東京を拠点に活動しているアジアの消費者トレンドエージェンシー「[Five by Fity](https://fivebyfifty.com/)」の創立者でトレンドディレクターの Nicole Fall の言葉です。
 
-「そして、それは女性に限りません。数年前、[草食男子](http://www.cnngo.com/tokyo/shop/totally-new-soshoku-danshi-189483) (草食動物的な男性) が流行しましたが、今男の子のスタイルは新しいものに変わっています」と Fall は語る。
+「そして、それは女性に限りません。数年前、[草食男子](https://www.cnngo.com/tokyo/shop/totally-new-soshoku-danshi-189483) (草食動物的な男性) が流行しましたが、今男の子のスタイルは新しいものに変わっています」と Fall は語る。
 
-- **CNNGo で詳しく読む: [Japanese teens not interested in sex](http://www.cnngo.com/tokyo/life/no-sex-japanese-teens-boys-increasingly-show-no-interest-521163)**
+- **CNNGo で詳しく読む: [Japanese teens not interested in sex](https://www.cnngo.com/tokyo/life/no-sex-japanese-teens-boys-increasingly-show-no-interest-521163)**
 
-「今最も注目を集めている男性は、サントリーのソウル・マッコリのポスターにもなっている[チャン・グンソク](http://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%B3%E3%82%BD%E3%82%AF)のような男の子です。ロールキャベツ男子と言われてますね」
+「今最も注目を集めている男性は、サントリーのソウル・マッコリのポスターにもなっている[チャン・グンソク](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%B3%E3%82%BD%E3%82%AF)のような男の子です。ロールキャベツ男子と言われてますね」
 
 「彼は、一見、弱っちくてフェミニンに見えますが、実際はとても性的魅力に富んだ男性だと思われており、彼が望むものと同じものが欲しいと人に思わせる男性です。女性と仕事での成功とかね」
 

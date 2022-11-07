@@ -40,4 +40,4 @@ tags:
 
 いずれにせよ、日本に右翼はいない。ついでに言えば左翼もいない。いるのは売国奴だけだ。
 
-参考: Wikipadia [在日韓国・朝鮮人](http://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E9%9F%93%E5%9B%BD%E3%83%BB%E6%9C%9D%E9%AE%AE%E4%BA%BA)
+参考: Wikipadia [在日韓国・朝鮮人](https://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E9%9F%93%E5%9B%BD%E3%83%BB%E6%9C%9D%E9%AE%AE%E4%BA%BA)
