@@ -128,7 +128,7 @@ googleAnalytics = ""
     dateFormat = "2006-01-02"
 
     # display the estimated reading time for an article
-    showReadingTime = true
+    showReadingTime = false
 
     # Minimum word count to display the Table of Contents
     tocMinWordCount = 400
@@ -154,7 +154,7 @@ googleAnalytics = ""
     showArchive = true
 
     # archive grouping: "2006" by year, "2006-01" by month
-    archiveDateGrouping = "2006"
+    archiveDateGrouping = "2006-01"
 
     # define your links with FontAwesome 5 (only free icons are supported)
     # all icons https://fontawesome.com/icons?d=gallery&m=free
@@ -162,7 +162,10 @@ googleAnalytics = ""
     socialMediaLinks = [
       { link = "https://github.com/mzch", icon = "fab fa-github" },
       { link = "https://github.com/letlive", icon = "fab fa-gitlab" },
+      { link = "https://bitbucket.org/mzch/", icon = "fab fa-bitbucket" },
       { link = "https://twitter.com/_mzch", icon = "fab fa-twitter" },
+	  { link = "https://www.facebook.com/kch.matsumoto", icon = "fab fa-facebook" },
+	  { link = "https://www.instagram.com/mzch/", icon = "fab fa-instagram" },
     ]
 
     # credits line configuration

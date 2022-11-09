@@ -1,5 +1,6 @@
 ---
 title: 日本婚姻史概説
+date: 2013-07-19T00:00:00+9:00
 type: page
 comment: true
 ---
