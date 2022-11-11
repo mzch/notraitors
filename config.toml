@@ -50,10 +50,10 @@ googleAnalytics = ""
   showComments = true
 
   # Enable / Disable comments on the articles via commento
-  commento      = true
+  commento      = false
   commentoJsURL = "https://rfc1855.com/js/commento.js"
   # Enable / Disable comments on the articles via Coral
-  coral         = false
+  coral         = true
   coralJsURL    = "https://commentre.com//assets/js/embed.js"
   # Enable / Disable comments on the articles via Remark42
   remark42      = false
