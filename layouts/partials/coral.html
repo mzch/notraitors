@@ -5,14 +5,14 @@
     if (window.location.hostname == "localhost")
       return;
     var d = document, s = d.createElement('script');
-    s.src = {{ .Site.Params.coralURL }} + '/assets/js/embed.js';
+    s.src = {{ .Site.Params.coralBaseURL }} + '/assets/js/embed.js';
     s.async = false;
     s.defer = true;
     s.onload = function() {
         Coral.createStreamEmbed({
             id: "coral-thread",
             autoRender: true,
-            rootURL: {{ .Site.Params.coralURL }}
+            rootURL: {{ .Site.Params.coralBaseURL }}
             // Uncomment these lines and replace with the ID of the
             // story's ID and URL from your CMS to provide the
             // tightest integration. Refer to our documentation at
