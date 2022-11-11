@@ -51,14 +51,14 @@ googleAnalytics = ""
 
   # Enable / Disable comments on the articles via commento
   commento      = false
-  commentoJsURL = "https://rfc1855.com/js/commento.js"
+  commentoJsURL = 'https://rfc1855.com/js/commento.js'
   # Enable / Disable comments on the articles via Coral
   coral         = true
-  coralBaseURL  = "https://commentre.com"
+  coralBaseURL  = 'https://commentre.com'
   # Enable / Disable comments on the articles via Remark42
   remark42      = false
-  RemarkJsURL   = "https://remark.mzchs.com"
-  remarkID      = "remark"
+  RemarkJsURL   = 'https://remark.mzchs.com'
+  remarkID      = 'remark'
 
 
   # Enable / Disable Giscus comments
