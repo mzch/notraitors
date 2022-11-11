@@ -54,6 +54,7 @@ googleAnalytics = ""
   commentoJsURL = 'https://rfc1855.com/js/commento.js'
   # Enable / Disable comments on the articles via Coral
   coral         = true
+  coralJsURL    = 'https://commentre.com/assets/js/embed.js'
   coralBaseURL  = 'https://commentre.com'
   # Enable / Disable comments on the articles via Remark42
   remark42      = false
