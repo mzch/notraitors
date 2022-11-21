@@ -30,7 +30,7 @@ googleAnalytics = ""
   # Description and meta data for the search engines
   author = "Koichi MATSUMOTO"
   description = "C/C++/Objective-C/Swifot Programmer"
-  keywords = "blog,personal,no traitors,Japan,History,Politics,Economy,Marital History,日本,古代史,日本婚姻史,婚姻史,マスコミ,反自民反サヨク,反パヨク"
+  keywords = "blog,personal,no traitors,Japan,History,Politics,Economy,Marital History,日本,古代史,中国正史,漢書,後漢書,三国志,魏志倭人伝,晉書,晋書,宋書,南斉書,南齊書,梁書,隋書,旧唐書,𦾔唐書,新唐書,古事記,日本婚姻史,婚姻史,マスコミ,反自民反サヨク,反パヨク"
 
   # How many articles should be displayed at once?
   paginate = 7
