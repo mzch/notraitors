@@ -58,8 +58,8 @@ googleAnalytics = ""
   coralBaseURL  = 'https://commentre.com'
   # Enable / Disable comments on the articles via Remark42
   remark42      = false
-  RemarkJsURL   = 'https://remark.mzchs.com'
-  remarkID      = 'remark'
+  RemarkJsURL   = 'https://remark42.mzch.org'
+  remarkID      = 'mzchremark'
 
 
   # Enable / Disable Giscus comments
