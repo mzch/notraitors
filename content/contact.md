@@ -17,6 +17,7 @@ comment: false
   <p>
   <label for="email" style="font-size:small;">メール</label>
   <input type="email" id="email" name="email" placeholder="example@example.jp" required="" style="background-color:#f0f0f0; width:100%;" />
+  <input type="email" id="replayto" name="replayto" style="display: none;" />
   </p>
   <p>
   <label for="message" style="font-size:small">メッセージ</label>
