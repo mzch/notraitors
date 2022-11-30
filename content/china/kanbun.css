@@ -54,6 +54,10 @@ body {
 	color: rgb(64, 96, 128);
 }
 
+.footnote li {
+	margin: 0.4em;
+}
+
 .chu {
 	font-size: 11pt;
 	color: #aa4400;
