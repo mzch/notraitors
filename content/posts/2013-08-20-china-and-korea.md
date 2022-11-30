@@ -1,7 +1,7 @@
 ---
 title: "歴史を捏造する中国と韓国"
 date: 2013-08-20T20:46:00+09:00
-draft: true
+draft: false
 archive:
   - 2013年8月
 categories:
