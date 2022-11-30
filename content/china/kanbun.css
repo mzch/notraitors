@@ -9,7 +9,7 @@ body {
 	margin-top: 1em;
 	margin-right: 1em;
 	margin-bottom: 1em;
-	font-family: Georgia, "Times New Roman", Times, serif;
+	font-family: 'ヒラギノ明朝 ProN', 'HanaMinA', 'BIZ UD明朝', '游明朝', serif;
 	font-size: 14pt;
 	background: linear-gradient(left, rgb(240,240,240), white);
 	background:-webkit-gradient(linear, left top, left bottom, from(rgb(240,240,240)), to(white)); 
