@@ -1,5 +1,6 @@
 /* 古事記 スタイルシート */
 body {
+	display:  block;
 	-webkit-writing-mode:vertical-rl;
 	-ms-writing-mode:tb-rl;
 	-o-writing-mode:vertical-rl;
@@ -9,7 +10,7 @@ body {
 	margin-top: 1em;
 	margin-right: 1em;
 	margin-bottom: 1em;
-	font-family: 'Georgia','Times New Roman', 'ヒラギノ明朝 ProN', 'HanaMinA', '游明朝', 'BIZ UD明朝', '游明朝', '平成明朝', '源ノ角ゴシック Regular', '源ノ角ゴシック', serif;
+	font-family: 'Jigmo', 'HanaMinA', 'ヒラギノ明朝 ProN', '游明朝', 'BIZ UD明朝', '游明朝', '平成明朝', 'Georgia','Times New Roman', serif;
 	font-size: 14pt;
 	line-height: 1.6em;
 	background: linear-gradient(left, rgb(240,240,240), white);
@@ -91,6 +92,7 @@ h1 {
 h2 {
 	margin-right: 2em;
 }
+
 p {
 	text-indent:1em;
 	display: block;
@@ -103,6 +105,7 @@ rt {
 sup {
 	font-size: 9pt;
 }
+
 a:link {
 	color: rgb(160,160,160);
 	text-decoration: none;
