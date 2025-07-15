@@ -1,6 +1,5 @@
 /* 古事記 スタイルシート */
 body {
-	display:  block;
 	-webkit-writing-mode:vertical-rl;
 	-ms-writing-mode:tb-rl;
 	-o-writing-mode:vertical-rl;
@@ -15,6 +14,7 @@ body {
 	line-height: 1.6em;
 	background: linear-gradient(left, rgb(240,240,240), white);
 	background:-webkit-gradient(linear, left top, left bottom, from(rgb(240,240,240)), to(white)); 
+	height: 100%;
 }
 
 .setumei {
@@ -23,6 +23,7 @@ body {
 	color: rgb(0, 0, 80);
 }
 .genbun {
+	margin-top: 80px;
 	margin-right: 2em;
 	line-height: 1.5em;
 	font-size: 16pt;
@@ -83,6 +84,7 @@ body {
 }
 
 h1 {
+	margin-top: 60px;
 	margin-right: 0.5em;
 	margin-left: 1.5em;
 	font-weight: bold;
@@ -90,6 +92,7 @@ h1 {
 }
 
 h2 {
+	margin-top: 80px;
 	margin-right: 2em;
 }
 
