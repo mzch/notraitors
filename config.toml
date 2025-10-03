@@ -17,7 +17,7 @@ DefaultContentLanguage = "ja"
 googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
-#disqusShortname = ""
+disqusShortname = "mai-guo-nu-oduan-ri"
 
 [params]
   # Custom CSS / JS modules that will be imported by the template.
@@ -53,7 +53,7 @@ googleAnalytics = ""
   commento      = false
   commentoJsURL = 'https://rfc1855.com/js/commento.js'
   # Enable / Disable comments on the articles via Coral
-  coral         = true
+  coral         = false
   coralJsURL    = 'https://commentre.com/assets/js/embed.js'
   coralBaseURL  = 'https://commentre.com'
   # Enable / Disable comments on the articles via Remark42
@@ -165,8 +165,8 @@ googleAnalytics = ""
       { link = "https://github.com/letlive", icon = "fab fa-gitlab" },
       { link = "https://bitbucket.org/mzch/", icon = "fab fa-bitbucket" },
       { link = "https://twitter.com/_mzch", icon = "fab fa-twitter" },
-	  { link = "https://www.facebook.com/kch.matsumoto", icon = "fab fa-facebook" },
-	  { link = "https://www.instagram.com/mzch/", icon = "fab fa-instagram" },
+      { link = "https://www.facebook.com/kch.matsumoto", icon = "fab fa-facebook" },
+      { link = "https://www.instagram.com/mzch/", icon = "fab fa-instagram" },
     ]
 
     # credits line configuration
