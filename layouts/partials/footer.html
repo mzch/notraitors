@@ -41,20 +41,6 @@
             </div>
             {{ end }}
 
-            {{ if and (.Site.Params.showFooterLanguageChooser | default true) (gt .Site.Languages 1) }}
-            {{- $.Scratch.Set "language" .Language -}}
-            <div class="languages">
-                <strong>{{ i18n "otherLanguages" }}</strong>
-                {{ range $.Site.Home.AllTranslations }}
-                {{ if eq ($.Scratch.Get "language") .Language }}
-                <a href="{{ .Permalink }}" class="active">{{ .Language }}</a>
-                {{ else }}
-                <a href="{{ .Permalink }}">{{ .Language }}</a>
-                {{ end }}
-                {{ end }}
-            </div>
-            {{ end }}
-
             {{ if .Site.Params.showArchive | default true }}
             <div class="archive">
                 <a href="{{ "/archive/" | relLangURL }}"><strong>{{ i18n "archive" }}</strong></a>
