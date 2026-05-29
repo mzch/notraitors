@@ -18,7 +18,7 @@ tags:
    - 壬申の乱
 ---
 
-さて、[天智天皇](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%99%BA%E5%A4%A9%E7%9A%87)は即位してみると、[大海人皇子](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A6%E5%A4%A9%E7%9A%87)の影響力が大きくなっていることに改めて危惧を抱いたかも知れません。「大皇弟」という尊称を奉った[大海人皇子](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A6%E5%A4%A9%E7%9A%87)は、自分の後を継ぐ[大友皇子](https://ja.wikipedia.org/wiki/%E5%BC%98%E6%96%87%E5%A4%A9%E7%9A%87)を大きく引き離しています。オオキミが捕虜になったとは言え、「倭國」はなくなってしまったわけではありません。[中大兄皇子](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%99%BA%E5%A4%A9%E7%9A%87)としては倭國と修好し、あるいは倭國の力を引き出すのに、[大海人皇子](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A6%E5%A4%A9%E7%9A%87)は得がたい協力者でした。また、国内統治という点でも、軍備という点でも[大海人皇子]https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A6%E5%A4%A9%E7%9A%87()と皇子に随従してきた官僚たちは、卓越した識見を示し、事態の収拾と政策の実現に奔走してくれました。感謝してもしきれないとはこのことです。
+さて、[天智天皇](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%99%BA%E5%A4%A9%E7%9A%87)は即位してみると、[大海人皇子](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A6%E5%A4%A9%E7%9A%87)の影響力が大きくなっていることに改めて危惧を抱いたかも知れません。「大皇弟」という尊称を奉った[大海人皇子](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A6%E5%A4%A9%E7%9A%87)は、自分の後を継ぐ[大友皇子](https://ja.wikipedia.org/wiki/%E5%BC%98%E6%96%87%E5%A4%A9%E7%9A%87)を大きく引き離しています。オオキミが捕虜になったとは言え、「倭國」はなくなってしまったわけではありません。[中大兄皇子](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%99%BA%E5%A4%A9%E7%9A%87)としては倭國と修好し、あるいは倭國の力を引き出すのに、[大海人皇子](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A6%E5%A4%A9%E7%9A%87)は得がたい協力者でした。また、国内統治という点でも、軍備という点でも[大海人皇子](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%AD%A6%E5%A4%A9%E7%9A%87)と皇子に随従してきた官僚たちは、卓越した識見を示し、事態の収拾と政策の実現に奔走してくれました。感謝してもしきれないとはこのことです。
 
 <!--more-->
 
