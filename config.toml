@@ -211,3 +211,8 @@ disqusShortname = "mai-guo-nu-oduan-ri"
     endLevel = 5
     ordered = false
     startLevel = 2
+
+#
+[security]
+  allowContent = ['! ^text/toml$']
+  enableInlineShortcodes = false
