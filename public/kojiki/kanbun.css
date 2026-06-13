@@ -1,0 +1,113 @@
+/* 古事記 スタイルシート */
+body {
+	-webkit-writing-mode:vertical-rl;
+	-ms-writing-mode:tb-rl;
+	-o-writing-mode:vertical-rl;
+	writing-mode:vertical-rl;
+	direction:ltr;
+	float: right;
+	margin-top: 1em;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	font-family: 'ヒラギノ明朝 ProN', '游明朝', 'BIZ UD明朝', '平成明朝', '花園明朝A', '源ノ角ゴシック Regular','源ノ角ゴシック', 'Jigmo', 'Georgia','Times New Roman', serif;
+	font-size: 14pt;
+	line-height: 1.6em;
+	background: linear-gradient(left, rgb(240,240,240), white);
+	background:-webkit-gradient(linear, left top, left bottom, from(rgb(240,240,240)), to(white)); 
+	height: 100%;
+}
+
+.genbun {
+	margin-top: 80px;
+	margin-right: 2em;
+	font-size: 16pt;
+}
+
+.kundoku {
+	margin-top: 120px;
+	margin-right:1em;
+	line-height: 2em;
+	color: #5f5f5f;
+}
+
+.translate {
+	border: 1px solid rgb(128, 192, 144);
+	border-radius: 0.5em;
+	padding: 0.5em;
+	margin-top: 160px;
+	margin-right:1em;
+	font-size: 12pt;
+	color: rgb(64, 128, 80);
+}
+
+.waka {
+	color: rgb(64, 96, 128);
+}
+
+.setumei {
+	margin-top: 60px;
+	margin-right: 2em;
+	margin-top: 80px;
+	color: olive;
+}
+.chu {
+	font-size: 11pt;
+	color: #aa4400;
+}
+
+.kana {
+	color: #0000a0;
+}
+
+.footnote {
+	list-style-type: cjk-ideographic;
+	margin-right: 2em;
+	margin-top: 160px;
+	font-size: 12pt;
+	color: rgb(64, 96, 128);
+}
+
+.footer {
+	margin-right: 2em;
+	margin-left: 1em;
+	margin-bottom: 1em;
+	text-align: right;
+}
+
+.imprint {
+	margin-right: 2em;
+	margin-left: 3em;
+	margin-bottom: 1em;
+	text-align: right;
+}
+
+h1 {
+	margin-top: 60px;
+	margin-right: 0.5em;
+	margin-left: 1.5em;
+	font-weight: bold;
+	text-shadow: 2pt 2pt 2pt rgb(160,160,160);
+}
+
+p {
+	text-indent:1em;
+	display: block;
+}
+
+rt {
+	font-size: 10pt;
+}
+
+a:link {
+	color: rgb(160,160,160);
+	text-decoration: none;
+}
+
+a:visited {
+	color: rgb(160,160,160);
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(0, 0, 80);
+}
