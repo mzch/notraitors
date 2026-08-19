@@ -39,6 +39,9 @@ disqusShortname = "mai-guo-nu-oduan-ri"
   # Enable / Disable MathJax
   enable_mathjax    = false
 
+  # Light/Dark theme
+  enableLightDarkTheme = true
+
   # Enable / Disable algolia search
   algolia_search    = false
   algolia_appId     = "45CEN6X6AT"
