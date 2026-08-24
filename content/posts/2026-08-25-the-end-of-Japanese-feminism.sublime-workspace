@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mark2",
+				"mark2-4"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Storage HD/Development.localized/mzch/marked-docs/ja/config.yaml",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-08-06-gender-equality.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-07-05-rice-price-should-be-low.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-07-04-sex-ed.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2013-06-15-joguhooh.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-07-03-marriage-style-for-true-feminists.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-22-gaming-children-parents.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-25-the-job-market-in-the-era-of-AI.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-07-01-marriage-style-for-true-feminists.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-28-marriage-style-for-true-feminists.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/public/china/3.html",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-27-marriage-style-for-true-feminists.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-26-marriage-style-for-true-feminists.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2025-06-22-gaming-children-parents.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2025-06-25-the-job-market-in-the-era-of-AI.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-25-marriage-style-for-true-feminists.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-24-marriage-style-for-true-feminists.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-22-private-property-and-ranks.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-15-the-origin-of-language.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2026-06-11-about-death-penalty.md",
+		"/Users/mzch/createNewStringsFile.py",
+		"/Volumes/External HD/Documents/test.html",
+		"/Volumes/External HD/Documents/Blog/notraitors/public/china/kanbun.css",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2022-11-09-move-to-hugo.md",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2022-12-11-japanese-language.md",
+		"/Volumes/Storage HD/Development.localized/mzch/vmmaestro/vmmaestro",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/kojiki/kanbun.css",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/china/kanbun.css",
+		"/Volumes/Storage HD/Development.localized/mzch/vmmaestro/sample/etc/vmmaestro/vms/vm.conf.sample",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/posts/2013-06-14-jinshinnnoran.md",
+		"/Volumes/Storage HD/Development.localized/Git/CSL_createJaSheet/createJaSheet/createJaSheet/main.c",
+		"/Volumes/Storage HD/Development.localized/Git/CSL_createJaSheet/createJaSheet/createJaSheet/Header.h",
+		"/Volumes/Storage HD/Development.localized/Git/CSL_localizemerge/MergeLocalize/MergeLocalize/main.c",
+		"/Volumes/Storage HD/Development.localized/Git/CSL_localizemerge/MergeLocalize/MergeLocalize/structures.h",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/Quick Look Extension/ja.lproj/PreviewViewController.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/Quick Look Extension/ja.lproj/Localizable.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/ZipDocument.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/Welcome.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/Transcript.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/Registration.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/Register.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/Preferences.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/PatternWindow.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/Passwords.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/OperationsQueue.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/NameEditorController.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/MainMenu.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/Localizable.strings",
+		"/Volumes/Storage HD/Development.localized/mzch/BetterZip-Localization/locals/ja.lproj/BetterZip-Setapp-InfoPlist.strings",
+		"/Users/mzch/Downloads/mzch@mzch.org.asc",
+		"/Users/mzch/Downloads/mzch@me.com.asc",
+		"/Users/mzch/Downloads/koichi@letlive.com.asc",
+		"/Volumes/Storage HD/Development.localized/mzch/letsencrypt-wildcard/wild-vd.sh",
+		"/Volumes/Storage HD/Development.localized/mzch/letsencrypt-wildcard/dns-hook-vd.sh",
+		"/Volumes/Storage HD/Development.localized/mzch/letsencrypt-wildcard/clean-hook-vd.sh",
+		"/Volumes/Storage HD/Development.localized/mzch/letsencrypt-wildcard/README.md",
+		"/Volumes/Storage HD/Development.localized/mzch/update-ds-records/README.md",
+		"/Volumes/Storage HD/Development.localized/mzch/update-ds-records/update-ds.sh",
+		"/Volumes/External HD/Documents/Blog/loginterests/config.yaml",
+		"/Volumes/Storage HD/Development.localized/Git/php-build/share/php-build/extension/definition",
+		"/Volumes/Storage HD/Development.localized/Git/php-build/share/php-build/extension/extension.sh",
+		"/Volumes/Storage HD/Development.localized/mzch/mkpasswd/README.md",
+		"/Volumes/Storage HD/Development.localized/Git/mkpasswd/mkpasswd",
+		"/Volumes/Storage HD/Development.localized/Git/mkpasswd/README.md",
+		"/Users/mzch/Downloads/Cookie 8.3.txt",
+		"/Volumes/External HD/Documents/Blog/notraitors/content/china/3.html",
+		"/Users/mzch/Library/Application Support/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/Users/mzch/Library/Application Support/Sublime Text/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/mzch/Library/Application Support/Sublime Text/Packages/Git GUI Clients/Git GUI Clients.sublime-settings",
+		"/Users/mzch/Library/Application Support/Sublime Text/Packages/User/Git GUI Clients.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "2026-08-25-the-end-of-Japanese-feminism.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
