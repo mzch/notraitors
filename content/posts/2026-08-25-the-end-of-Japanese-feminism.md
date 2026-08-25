@@ -577,6 +577,8 @@ tags:
 
 [2026/08/25 追記] [上野千鶴子](https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E5%8D%83%E9%B6%B4%E5%AD%90)氏の業績とされる研究は結局、[クリスティーヌ・デルフィ](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%87%E3%83%AB%E3%83%95%E3%82%A3)らの議論の焼き直しにすぎず、とてに新たな知見を人類に齎したとは言えません。新規性のない二番煎じが学問として評価されているという事実そのものが[女性学](https://ja.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E5%AD%A6)などは論理的、思索的構造などを持ち合わせておらず、単なるお気持ち表明以上のものではないという事実をよく表しています。ただ、結論だけ述べて議論の経過を明かさないというのも公平ではないと思いますので、以下、[Gemini](https://gemini.google.com/app) との対話でこれを論評した議論を示します。
 
+---
+
 <p style="color:rgb(64, 128, 80); border:1px solid rgb(128, 192, 144); border-radius:0.5em; padding:0.5em; line-height:1.5em; width: 80%; margin-left: 20%;">
 <a style="color: #4040a0;" href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E5%8D%83%E9%B6%B4%E5%AD%90">上野千鶴子</a>氏の研究としてあげられたものの中で、<a style="color: #4040a0;" href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%87%E3%83%AB%E3%83%95%E3%82%A3">クリスティーヌ・デルフィ</a>の研究を拡張、発展させた部分というのは何でしょうか。
 </p>
